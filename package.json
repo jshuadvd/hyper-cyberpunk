@@ -1,6 +1,6 @@
 {
   "name": "hyper-cyberpunk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A cyberpunk filter for hyper terminal.",
   "main": "index.js",
   "scripts": {
